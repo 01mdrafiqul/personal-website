@@ -1,0 +1,77 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    color:#363958;
+    font-size: 50px;  
+}
+h2{
+    font-size: 30px;
+}
+.text-highlight{
+    color: salmon;
+}
+.button{
+    text-decoration: none;
+    font-size: 12px;
+    background-image: linear-gradient(45deg, lightsalmon, tomato );
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 700;
+    color: white;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+img{
+    width: 100%;
+}
+section{
+    height: 500px;
+    padding-bottom: 100px;
+}
+.onethird-width{
+    height: 52%;
+    width: 27%;
+    float: left;
+    background-color: white;
+    border-radius: 20px;
+    padding: 20px;
+    margin-left: 2%;
+}
+.move-center{
+    text-align: center;
+}
+#upcoming-project{
+    padding: 70px 60px;
+    height: 600px;
+    background-color: #f8f9fc;
+}
+#inquiry{
+    height: 200px;
+    background-image: url("shapes/Group_33094_1.png");
+    background-repeat: no-repeat;
+    background-size: 900px;
+    margin: 10% 15%;
+}
+#text-position{
+    padding-top: 10%;
+    margin-left: 10%;
+    color: white;
+}
+#button-position{
+    padding: 20px 30px;
+    margin-left: 45%;
+    color: white;
+}
+#text-color{
+    color: #696871;
+}
+
+
+
+
